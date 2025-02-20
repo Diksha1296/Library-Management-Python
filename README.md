@@ -55,7 +55,7 @@ Press 0 to exit the system.
 ## 🔧 Installation and Execution
 1️⃣ Clone this repository:
 bash
-git clone https://github.com/your-username/skill-circle-library-system.git
+git clone https://github.com/Diksha1296/Library-Management-Python
 
 2️⃣ Navigate to the project directory:
 bash
